@@ -1,5 +1,4 @@
 import java.util.Random;
-import java.lang.Math;
 import java.util.Scanner;
 
 public class FirstTestClass {
