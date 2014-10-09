@@ -20,7 +20,7 @@ public class FirstTestClass {
       for(char c: Integer.toString(n).toCharArray())
         sum+= Integer.parseInt(String.valueOf(c));
     System.out.print("\nSum = " + sum);
-    System.out.print("\n\nTask2 end\n\n");
+    System.out.print("\n\nTask1 end\n\n");
   }
 
   public void task2(int a, int b){
